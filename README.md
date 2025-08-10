@@ -33,16 +33,16 @@ O usuário interage por meio de um **menu no console**, podendo realizar convers
    git clone https://github.com/seu-usuario/conversor-moedas-java.git
    cd conversor-moedas-java
 
-### 2. Adicionar a biblioteca Gson
-Este projeto usa o Gson para manipulação de JSON.
-
-Para adicionar o Gson no IntelliJ via arquivo `.jar`:
-
-1. Baixe o gson-2.10.jar em: [Maven Reposity Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson)
-2. No IntelliJ IDEA, vá em:
-3. Adicione a biblioteca Gson
-   `File > Project Structure > Modules > Dependencies`  
-4. Clique no botão **`+`** e escolha **JARs or directories**.
-5. Selecione o arquivo `gson-2.10.jar` baixado.
-6. Clique em **OK** para salvar.
+2. Adicionar a biblioteca Gson
+   Este projeto usa o Gson para manipulação de JSON.
+   
+   Para adicionar o Gson no IntelliJ via arquivo `.jar`:
+   
+   1. Baixe o gson-2.10.jar em: [Maven Reposity Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson)
+   2. No IntelliJ IDEA, vá em:
+   3. Adicione a biblioteca Gson
+      `File > Project Structure > Modules > Dependencies`  
+   4. Clique no botão **`+`** e escolha **JARs or directories**.
+   5. Selecione o arquivo `gson-2.10.jar` baixado.
+   6. Clique em **OK** para salvar.
 
